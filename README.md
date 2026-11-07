@@ -5,6 +5,7 @@
 > **Metodología:** Scrumban (Scrum + Kanban) con Iteraciones de 1 Semana  
 > **Estándar de Documentación:** IEEE Std 830-1998 / ISO/IEC/IEEE 29148  
 
+
 ---
 
 ## 📌 1. Descripción General del Proyecto
